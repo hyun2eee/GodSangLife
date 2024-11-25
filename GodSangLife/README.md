@@ -1,8 +1,8 @@
 🏃 GodSang 프로젝트를 소개합니다 🏃‍♂️
 ==================================
 
-## Want to live a productive and fulfilling life?    Start your ‘GodSang’ journey with us today!
-### 성실하고 보람찬 삶을 살고 싶으신가요? 지금 바로 우리와 함께 ‘갓생’ 여정을 시작하세요!
+### Want to live a productive and fulfilling life?    Start your ‘GodSang’ journey with us today!
+#### 성실하고 보람찬 삶을 살고 싶으신가요? 지금 바로 우리와 함께 ‘갓생’ 여정을 시작하세요!
 ---------------------------------
 
 갓생’은 젊은 세대 사이에서 시대적 트렌드 입니다.   
