@@ -1,7 +1,7 @@
 🏃🏃🏃‍♂️ GodSangLife 프로젝트를 소개합니다
 ==================================
 
-# Do you want God's Life? follow us
+## Do you want God's Life? follow us
 ---------------------------------
 
 > "갓생" 이란 무엇일까요?
