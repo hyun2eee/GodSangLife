@@ -24,7 +24,7 @@
 
 ## 세부 구현 기능
 
-1. 식단 카테고리화 - UITableViewDataSource, UITableViewDelegate, UItable view 를 사용하여 테이블 뷰의 데이터를 관리하고 셀을 생성 및 구현합니다.
+1. 식단 카테고리화 - UITableViewDataSource, UITableViewDelegate, UItable view 를 사용하여 테이블 뷰의 데이터를 관리하고 셀을 생성 및 구현
 
 2. 재료와 음식 이름 검색 - UISearchResultsUpdating
 
