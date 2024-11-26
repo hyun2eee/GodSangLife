@@ -46,4 +46,6 @@ front-end, back-end
 > * Swift UI
 > * storyBoard
 
-![Alt text](/Users/sihyun/Documents/GitHub/img1.png)
+<img width="417" alt="img1" src="https://github.com/user-attachments/assets/8477b4e4-612f-4dec-82f2-f172121a8e15">
+
+<img width="419" alt="img2" src="https://github.com/user-attachments/assets/6c1c0537-424b-44a8-85f5-88f50cf38762">
