@@ -41,11 +41,19 @@
 ## 📱결과물
  * 파일 다운로드: <https://github.com/hyun2eee/GodSangLife/blob/main/GodSangLife/GodSangLifeProject.xcworkspace.zip>
 
-## ➿ 기술 스택
+## ➿기술 스택
 front-end, back-end
 > * Swift UI
 > * storyBoard
 
+## 💡플로우차트
 <img width="417" alt="img1" src="https://github.com/user-attachments/assets/8477b4e4-612f-4dec-82f2-f172121a8e15">
 
+## 🔌실제 구현 화면
 <img width="419" alt="img2" src="https://github.com/user-attachments/assets/6c1c0537-424b-44a8-85f5-88f50cf38762">
+
+## ⚒️추후 추가 내용 및 수정사항
+
+1. 냉장고 알림 기능 추가
+2. 레시피 추가
+3. 레시피 선택시 이미지 첨부
