@@ -44,5 +44,6 @@
 ## ➿ 기술 스택
 front-end, back-end
 > * Swift UI
-* stortBoard
-* 
+> * storyBoard
+
+![Alt text] (/Users/sihyun/Documents/GitHub/갓생 프로젝트 플로우차트.png)
