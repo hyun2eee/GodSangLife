@@ -39,7 +39,7 @@
 7. 날짜 데이터를 받아 문자열로 변환 후 테이블뷰로 이동 - DateFormatter 사용, string(from:) 메서드를 호출, 업데이트 후 식별자를 사용하고, dequeueReusableCell를 통해 재사용 가능한 셀을 가져옴
 
 ## 📱결과물
- * [GodSangLife 프로젝트 다운로드] (https://github.com/hyun2eee/GodSangLife/blob/main/GodSangLife/GodSangLifeProject.xcworkspace.zip)
+ * [GodSangLife 프로젝트 다운로드](https://github.com/hyun2eee/GodSangLife/blob/main/GodSangLife/GodSangLifeProject.xcworkspace.zip)
 
 ## ➿기술 스택
 > * Swift, Storyboard 기반 개발
