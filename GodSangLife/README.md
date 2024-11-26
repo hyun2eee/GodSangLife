@@ -6,8 +6,8 @@
 ---------------------------------
 
 갓생’은 젊은 세대 사이에서 시대적 트렌드 입니다.   
-신을 뜻하는 ‘갓(God)’과 인생을 뜻하는 ‘생(生)’의 합성어로, 24시간을 쪼개 생산적 활동을 하는 삶을 말합니다.   
-갓생 프로젝트는 갓생을 살고자 하는 사람들에게 도움을 줄 수 있는 어플을 구현하는것에 목표를 두었습니다.     
+신을 뜻하는 ‘갓(God)’과 인생을 뜻하는 ‘생(生)’의 합성어로 입니다. 생산적 활동으로 하루를 채우는 삶을 의미합니다.     
+갓생 프로젝트는 생산적인 삶을 지향하는 사람들을 돕는 어플 구현을 목표로 합니다.       
 
 ## 🛠️기능 구현
 
@@ -17,7 +17,7 @@
 > 2. 운동 기록 기능 재공
 >   > 운동의 종류를 헬스/홈트레이닝/기구활용여부 등 다양한 장르로 나누어 운동명과 운동량을 기록하는 기능을 제공     
 하루에 얼마나 어떤 운동을 어떤 비율로 했는지 사용자가 가시적으로 볼 수 있도록 원형그래프 제공   
-정부에서 제공하는 운동시 주의사항과 참고사항을 화면에 띄워 안전하게 운동 할 수 있도록 구현
+운동 안전 가이드 제공
 > 3. 냉장고 기능
 >   > 냉장고에 있는 식품의 유통기한/소비기한을 기록   
 사용자가 유통기한이 임박한 제품부터 볼 수 있도록 정렬하여 빠르게 냉장고 정리가 가능하도록 구현   7일전 / 3일전 / 하루전 / 당일 유통기한/ 소비기상 알림 서비스 제공 예정
@@ -39,21 +39,22 @@
 7. 날짜 데이터를 받아 문자열로 변환 후 테이블뷰로 이동 - DateFormatter 사용, string(from:) 메서드를 호출, 업데이트 후 식별자를 사용하고, dequeueReusableCell를 통해 재사용 가능한 셀을 가져옴
 
 ## 📱결과물
- * 파일 다운로드: <https://github.com/hyun2eee/GodSangLife/blob/main/GodSangLife/GodSangLifeProject.xcworkspace.zip>
+ * [GodSangLife 프로젝트 다운로드] (https://github.com/hyun2eee/GodSangLife/blob/main/GodSangLife/GodSangLifeProject.xcworkspace.zip)
 
 ## ➿기술 스택
-front-end, back-end
-> * Swift UI
-> * storyBoard
+> * Swift, Storyboard 기반 개발
 
 ## 💡플로우차트
-<img width="417" alt="img1" src="https://github.com/user-attachments/assets/8477b4e4-612f-4dec-82f2-f172121a8e15">
+<img width="417" alt="img1" src="https://github.com/user-attachments/assets/8477b4e4-612f-4dec-82f2-f172121a8e15">   
+앱의 주요 동작을 설명하는 플로우 다이어그램
 
 ## 🔌실제 구현 화면
-<img width="419" alt="img2" src="https://github.com/user-attachments/assets/6c1c0537-424b-44a8-85f5-88f50cf38762">
+<img width="419" alt="img2" src="https://github.com/user-attachments/assets/6c1c0537-424b-44a8-85f5-88f50cf38762">   
+레시피 검색 화면과 운동 기록 화면   
+사용자 친화적인 인터페이스로 간결하고 직관적인 디자인을 채택했습니다.
 
 ## ⚒️추후 추가 내용 및 수정사항
 
-1. 냉장고 알림 기능 추가
+1. 냉장고 알림 기능 추가 : 유통기한이 임박한 식품에 대해 사용자에게 푸시 알림 제공
 2. 레시피 추가
 3. 레시피 선택시 이미지 첨부
