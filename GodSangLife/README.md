@@ -46,4 +46,4 @@ front-end, back-end
 > * Swift UI
 > * storyBoard
 
-![Alt text] (/Users/sihyun/Documents/GitHub/갓생 프로젝트 플로우차트.png)
+![Alt text](/Users/sihyun/Documents/GitHub/img1.png)
