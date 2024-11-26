@@ -45,12 +45,15 @@
 > * Swift, Storyboard 기반 개발
 
 ## 💡플로우차트
-<img width="417" alt="img1" src="https://github.com/user-attachments/assets/8477b4e4-612f-4dec-82f2-f172121a8e15">   
+<img width="417" alt="img1" src="https://github.com/user-attachments/assets/8477b4e4-612f-4dec-82f2-f172121a8e15">  
+
 앱의 주요 동작을 설명하는 플로우 다이어그램
 
 ## 🔌실제 구현 화면
-<img width="419" alt="img2" src="https://github.com/user-attachments/assets/6c1c0537-424b-44a8-85f5-88f50cf38762">        
-레시피 검색 화면과 운동 기록 화면     
+<img width="419" alt="img2" src="https://github.com/user-attachments/assets/6c1c0537-424b-44a8-85f5-88f50cf38762">   
+
+레시피 검색 화면과 운동 기록 화면   
+
 사용자 친화적인 인터페이스로 간결하고 직관적인 디자인을 채택했습니다.
 
 ## ⚒️추후 추가 내용 및 수정사항
