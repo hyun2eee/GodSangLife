@@ -22,7 +22,7 @@
 >   > 냉장고에 있는 식품의 유통기한/소비기한을 기록   
 사용자가 유통기한이 임박한 제품부터 볼 수 있도록 정렬하여 빠르게 냉장고 정리가 가능하도록 구현   7일전 / 3일전 / 하루전 / 당일 유통기한/ 소비기상 알림 서비스 제공 예정
 
-## ⚙️세부 구현 기능
+## ⚙️ 기능 명세서
 
 1. 식단 카테고리화 - UITableViewDataSource, UITableViewDelegate, UItable view 를 사용하여 테이블 뷰의 데이터를 관리하고 셀을 생성 및 구현
 
@@ -41,3 +41,8 @@
 ## 📱결과물
  * 파일 다운로드: <https://github.com/hyun2eee/GodSangLife/blob/main/GodSangLife/GodSangLifeProject.xcworkspace.zip>
 
+## ➿ 기술 스택
+front-end, back-end
+> * Swift UI
+* stortBoard
+* 
